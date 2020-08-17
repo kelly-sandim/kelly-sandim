@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on FullStack Development
-- 🌱 I’m currently learning Vue.js
+- 🔭 I’m currently working on Front-End Development
+- 🌱 I’m currently learning Design
 - 👯 I’m looking to collaborate on UI/UX projects
 - 🤔 I’m looking for help with my skills in Design
 - 💬 Ask me about Legend of the Galactic Heroes, Pets and other stuff
